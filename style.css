@@ -125,12 +125,12 @@ button {
     font-size: 35px;
     color: black;
   }
-  /* .text1 {
-    
-    margin-top: 10px;
-   
-    
-  } */
+  .A{
+    text-align: center;
+  }
+ .footer{
+   display: block;
+ }
   .text2 {
     font-size: 15px;
 
